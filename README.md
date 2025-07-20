@@ -1,24 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 
 <div id="header" align="center">
-
-<h1>Hey there, Prabhat this side!<img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
-
+<h1>Hey there, Prabhat this side! <img src="./assets/giphy.gif" width="35px" alt="Waving Hand"></h1>
 </div>
 
 <br>
 
 <div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340" alt="Profile Animation"/>
 </div>
 
 ### 💫 About Me
 
-- 🎓 I'm a Student and Web Developer
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning DevOps
-- 👯 I’m looking to collaborate with open source enthusiasts
-- 🥅 2025 Goals: Learn DevOps, Nextjs And strengthen DSA
+- 🎓 A passionate Computer Science student and aspiring Software Engineer  
+- 💻 Currently building full-stack web applications  
+- 🌱 Learning and experimenting with DevOps tools  
+- 🤝 Looking to collaborate on meaningful open-source projects  
+- 🚀 **2025 Goals:**  
+  - Master DevOps workflows (Docker, CI/CD, Kubernetes)  
+  - Explore advanced Next.js concepts  
+  - Strengthen problem-solving & DSA skills  
 
 <br>
 
@@ -47,25 +48,31 @@
 
 <br>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Analytics Dashboard
 
 <div align="center">
-
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhatsingh001&theme=radical">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prabhatsingh001&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prabhatsingh001&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prabhatsingh001&theme=radical">
-<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=radical&utcOffset=8">
-<img height="169em" src="https://github-readme-stats.vercel.app/api?username=Prabhatsingh001&theme=radical&hide_border=false&include_all_commits=false&count_private=false">
-<img height="169em" src="https://github-readme-streak-stats.herokuapp.com?user=Prabhatsingh001&theme=radical">
-
-</div><br>
-
-# 🏆 Trophies
-
-<div align="center">
-<img src="https://github-trophies.vercel.app/?username=Prabhatsingh001&theme=dracula&no-frame=false&no-bg=false&margin-w=4">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhatsingh001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=00D9FF" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatsingh001&theme=radical&border_radius=10&border=00D9FF" alt="GitHub Streak" />
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsingh001&layout=compact&langs_count=12&theme=radical&border_radius=10&border_color=00D9FF" alt="Top Languages" />
+</div>
+
+<br>
+
+### 📈 Contribution Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatsingh001&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+### 🏅 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prabhatsingh001&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
 
 # 🎖 Badges
 

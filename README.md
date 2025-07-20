@@ -73,8 +73,8 @@
 
 <div style='display:flex; align-items:center; gap: 5px;' align='center'>
 <img src="./assets/postman.png" width="85px" height="85px" />
-  <!-- <img src="./assets/1.png" width="85px" height="85px" />
-  <img src="./assets/2.png" width="85px" height="85px" />
+<img src="./assets/contributors_badge.jpg" width="85px" height="85px" />
+  <!-- <img src="./assets/2.png" width="85px" height="85px" />
   <img src="./assets/3.png" width="85px" height="85px" />
   <img src="./assets/4.png" width="85px" height="85px" />
   <img src="./assets/5.png" width="85px" height="85px" />

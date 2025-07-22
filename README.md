@@ -41,7 +41,7 @@
 <div align="center">
 
 <a href="#" target="_blank">
-<img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,bootstrap,react,nodejs,redux,ts,vite,mongodb,mysql,postgres,django,fastapi,postman,cpp,java,heroku,vercel,netlify,git,github,bash,linux&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,bootstrap,react,nodejs,redux,ts,vite,mongodb,mysql,postgres,django,fastapi,postman,cpp,python,java,heroku,vercel,netlify,git,github,bash,linux&perline=11" />
 </a>
 
 </div>

@@ -124,7 +124,6 @@
   </tr>
 </table>
 </div>
-</div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhatsingh001&theme=holi&hide_border=true" style="border-radius: 10px; width:100%;">
 

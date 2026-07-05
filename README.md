@@ -54,8 +54,8 @@
 
 ---
 
-### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"> &nbsp; Languages and Tools:
-<div align="center">
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &nbsp; Languages and Tools:
+<div align="left">
 
 <a href="#" target="_blank">
 <img src="https://skillicons.dev/icons?i=html,tailwindcss,javascript,bootstrap,react,nodejs,redux,ts,vite,mongodb,mysql,postgres,django,fastapi,postman,cpp,python,java,heroku,vercel,netlify,git,github,bash,linux&perline=11" />

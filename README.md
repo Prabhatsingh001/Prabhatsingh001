@@ -1,43 +1,60 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
-
-<div id="header" align="center">
-<h1>Hey there, Prabhat this side! <img src="./assets/giphy.gif" width="35px" alt="Waving Hand"></h1>
-</div>
-
-<br>
-
-<div>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="340" alt="Profile Animation"/>
-</div>
-
-### 💫 About Me
-
-- 🎓 A passionate Computer Science student and aspiring Software Engineer  
-- 💻 Currently building full-stack web applications  
-- 🌱 Learning and experimenting with DevOps tools  
-- 🤝 Looking to collaborate on meaningful open-source projects  
-- 🚀 **2025 Goals:**  
-  - Master DevOps workflows (Docker, CI/CD, Kubernetes)  
-  - Explore advanced Next.js concepts  
-  - Strengthen problem-solving & DSA skills  
-
-<br>
-
-## 🌐 Socials:
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=140&section=header"/>
 
 <div align="center">
-
-<a href="https://www.instagram.com/__.prabhat._._?igsh=ZGpsd2tjaDExcjl1" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-<a href="https://linkedin.com/in/prabhat-singh-736643287" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-
+  <h1>
+    <a href="https://github.com/Prabhatsingh001">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Grey+Qo&size=50&pause=1000&width=435&color=266ac9&center=true&vCenter=true&height=70&lines=Hii+There%2C+I'm+Prabhat+Singh" alt="Prabhat Hii" />
+    </a>
+</div>
+<div align="center">
+<img src="./assets/173735367-b75edb3b-61ec-4323-a10f-5d98e1d7b97a.gif" style="width: 100%" />
 </div>
 
-<br>
+---
 
+## 🚀 About Me
 
-## 💻 Tech Stack:
+<table>
+<tr>
+<td width="50%" valign="top">
 
+🎓 **Pre-final year Computer Science student** at IIIT Pune.
+
+💻 Passionate about building **scalable backend applications** & solving real-world problems.
+
+🚀 **Tech Stack:** Python, C++, Django, FastAPI, React, PostgreSQL, Docker, Git
+
+🤖 Currently exploring **Agentic AI, LLM Applications, System Design, and DevOps**.
+
+🧩 Solved **500+ DSA problems** across coding platforms.
+
+🌱 Learning **Kubernetes, CI/CD, Cloud, and Distributed Systems**.
+
+🤝 Open to collaborating on **Backend, AI, and Open Source** projects.
+
+⚡ **Fun Fact:** I love turning complex ideas into simple, production-ready solutions.
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="./assets/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="www.linkedin.com/in/prabhat-singh-736643287" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prabhat-singh-736643287" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/prabhat__iiitp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/prabhat__iiitp/" height="30" width="40" /></a>
+</p>
+
+---
+
+### <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"> &nbsp; Languages and Tools:
 <div align="center">
 
 <a href="#" target="_blank">
@@ -46,51 +63,75 @@
 
 </div>
 
-<br>
 
-## 📊 GitHub Analytics Dashboard
+---
+      
+## GSSOC Badges 🪶
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Prabhatsingh001&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=10&border_color=00D9FF" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatsingh001&theme=radical&border_radius=10&border=00D9FF" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsingh001&layout=compact&langs_count=12&theme=radical&border_radius=10&border_color=00D9FF" alt="Top Languages" />
-</div>
-
-<br>
-
-### 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatsingh001&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
+<div style='display: flex; align-items: center; gap: 10px; justify-content: center; flex-wrap: nowrap;' align='center'>
+    <img src="./assets/contributors_badge.jpg" width="100px" height="100px" />
+    <img src="./assets/postman.png" width="100px" height="100px" />
 </div>
 
 ---
 
-### 🏅 GitHub Trophies
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Prabhatsingh001&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+<h2><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="45" align="center"><span><i>Github Analytics</i></span></h2>
+  <br>
+
+   ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  
+  <br/><br/><br/>
+
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=monokai&utcOffset=6)  
+
+<h3 align="center">Git Analytics</h3>
+
 <div align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatsingh001&theme=dark&hide_border=true&" alt="GitHub Streak" style="border-radius: 10px;" />
+  <br>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prabhatsingh001&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" style="border-radius: 10px;" />
+<br>
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsingh001&hide=html&hide_border=false&layout=compact&langs_count=8&theme=dark" alt="Top Languages" style="border-radius: 10px;">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prabhatsingh001&theme=dark&hide_border=false" alt="Repos Per Language" style="border-radius: 10px;">
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prabhatsingh001&theme=dark&hide_border=true" alt="Most Commit Language" style="border-radius: 10px;">
+    </td>
+  </tr>
+</table>
+</div>
+</div>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Prabhatsingh001&hide_border=true&border_radius=15&show_icons=true&theme=dark" alt="Prabhat's GitHub stats">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhatsingh001&theme=dark&hide_border=true" style="border-radius: 10px;">
+
+---
+
+### 🏅 GitHub Trophies
+
+<div align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=Prabhatsingh001&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
+---
 
-# 🎖 Badges
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### GSSoC'24-ext Badges
 
-<div style='display:flex; align-items:center; gap: 5px;' align='center'>
-<img src="./assets/postman.png" width="85px" height="85px" />
-</div>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=Prabhatsingh001&color=red" alt="Total Github views" />
 
-### GSSoC'25 Badges
 
-<div style='display:flex; align-items:center; gap: 5px;' align='center'>
-<img src="./assets/contributors_badge.jpg" width="85px" height="85px" />
-</div>
-
-<br>
-
-<hr>
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Prabhatsingh001&color=red" alt="Total Github views" />
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=80&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=140&section=footer"/>

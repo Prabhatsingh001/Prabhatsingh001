@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=140&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=120&section=header"/>
 
 <div align="center">
   <h1>
@@ -86,7 +86,7 @@
   
   <br/><br/><br/>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=monokai&utcOffset=6)  
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=dark&utcOffset=5.5)  
 
 <h3 align="center">Git Analytics</h3>
 
@@ -134,4 +134,4 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Prabhatsingh001&color=red" alt="Total Github views" />
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=140&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1283D1&height=120&section=footer"/>

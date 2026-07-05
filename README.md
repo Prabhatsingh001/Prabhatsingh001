@@ -87,7 +87,7 @@
   <br/><br/><br/>
 
 <p align='center'>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=dark&utcOffset=6" 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=holi&utcOffset=6" 
 alt="Prabhat's Productive Time" style="border-radius: 10px;"
 />
 
@@ -103,22 +103,22 @@ alt="Prabhat's Productive Time" style="border-radius: 10px;"
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsingh001&hide=html&hide_border=false&layout=compact&langs_count=8&theme=dark" alt="Top Languages" style="border-radius: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatsingh001&hide=html&hide_border=false&layout=compact&langs_count=8&theme=holi" alt="Top Languages" style="border-radius: 10px;">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prabhatsingh001&theme=dark&hide_border=false" alt="Repos Per Language" style="border-radius: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Prabhatsingh001&theme=holi&hide_border=false" alt="Repos Per Language" style="border-radius: 10px;">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prabhatsingh001&theme=dark&hide_border=true" alt="Most Commit Language" style="border-radius: 10px;">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Prabhatsingh001&theme=holi&hide_border=true" alt="Most Commit Language" style="border-radius: 10px;">
     </td>
   </tr>
 </table>
 </div>
 </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prabhatsingh001&theme=dark" alt="Prabhat's GitHub stats">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Prabhatsingh001&theme=holi" alt="Prabhat's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhatsingh001&theme=dark&hide_border=true" style="border-radius: 10px;">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Prabhatsingh001&theme=holi&hide_border=true" style="border-radius: 10px;">
 
 ---
 

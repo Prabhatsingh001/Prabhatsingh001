@@ -86,7 +86,10 @@
   
   <br/><br/><br/>
 
- ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=dark&utcOffset=6) 
+<p align='center'>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Prabhatsingh001&theme=dark&utcOffset=6" 
+alt="Prabhat's Productive Time" style="border-radius: 10px;"
+/>
 
 <h3 align="center">Git Analytics</h3>
 

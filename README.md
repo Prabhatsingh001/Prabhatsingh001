@@ -139,8 +139,9 @@
 ---
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox"/>
+</p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Prabhatsingh001&color=red" alt="Total Github views" /></p>
 
